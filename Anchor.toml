@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-solana_memory_issue = "7ADHtPbzx2msHbiKu1fEBwP8u2eePGRU6WCz4f55cVpg"
+solana_memory_issue = "5ge4JgXdpwr87y3nDWX2e4Te8neCDwAX9X6LG7Rptez7"
 
 [registry]
 url = "https://api.apr.dev"
